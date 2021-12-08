@@ -490,4 +490,4 @@ See also the list of [contributors](https://github.com/cyrildewit/php-maps-url/g
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-2021.11.29.
+2021.12.08.
